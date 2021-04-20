@@ -1,0 +1,125 @@
+LOCUS       BBa_F2620               1073 bp ds-DNA     linear       20-APR-2021
+DEFINITION  .
+ACCESSION   BBa_F2620                                                          
+VERSION     BBa_F2620.1                                                        
+FEATURES             Location/Qualifiers
+     misc_feature    7..25
+                     /label="TetR 1"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    7..60
+                     /label="BBa_R0040"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     promoter        26..31
+                     /label="-35"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     misc_feature    32..50
+                     /label="TetR 2"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     promoter        49..54
+                     /label="-10"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     RBS             69..80
+                     /label="BBa_B0034"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     misc_feature    73..76
+                     /label="conserved"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    87..88
+                     /label="prefix"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     CDS             87..836
+                     /label="luxR"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    87..842
+                     /label="BBa_C0062"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    260..260
+                     /label="T"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     misc_feature    578..578
+                     /label="A"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     misc_feature    843..867
+                     /label="Help:Barcodes"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     terminator      876..955
+                     /label="BBa_B0010"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     terminator      876..1004
+                     /label="BBa_B0015"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     stem_loop       887..930
+                     /label="stem_loop"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     terminator      964..1004
+                     /label="BBa_B0012"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     stem_loop       971..990
+                     /label="T7 TE"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     polyA_site      991..1004
+                     /label="polya"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    997..997
+                     /label="stop"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     misc_feature    1013..1032
+                     /label="LuxR/HSL"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     promoter        1013..1067
+                     /label="BBa_R0062"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     promoter        1032..1037
+                     /label="-35"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     promoter        1054..1059
+                     /label="-10"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     misc_feature    1065..1065
+                     /label="start"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 GGGCCCtccc tatcagtgat agagattgac atccctatca gtgatagaga tactgagcac
+       61 tactagagaa agaggagaaa tactagatga aaaacataaa tgccgacgac acatacagaa
+      121 taattaataa aattaaagct tgtagaagca ataatgatat taatcaatgc ttatctgata
+      181 tgactaaaat ggtacattgt gaatattatt tactcgcgat catttatcct cattctatgg
+      241 ttaaatctga tatttcaatc ctagataatt accctaaaaa atggaggcaa tattatgatg
+      301 acgctaattt aataaaatat gatcctatag tagattattc taactccaat cattcaccaa
+      361 ttaattggaa tatatttgaa aacaatgctg taaataaaaa atctccaaat gtaattaaag
+      421 aagcgaaaac atcaggtctt atcactgggt ttagtttccc tattcatacg gctaacaatg
+      481 gcttcggaat gcttagtttt gcacattcag aaaaagacaa ctatatagat agtttatttt
+      541 tacatgcgtg tatgaacata ccattaattg ttccttctct agttgataat tatcgaaaaa
+      601 taaatatagc aaataataaa tcaaacaacg atttaaccaa aagagaaaaa gaatgtttag
+      661 cgtgggcatg cgaaggaaaa agctcttggg atatttcaaa aatattaggt tgcagtgagc
+      721 gtactgtcac tttccattta accaatgcgc aaatgaaact caatacaaca aaccgctgcc
+      781 aaagtatttc taaagcaatt ttaacaggag caattgattg cccatacttt aaaaattaat
+      841 aacactgata gtgctagtgt agatcactac tagagccagg catcaaataa aacgaaaggc
+      901 tcagtcgaaa gactgggcct ttcgttttat ctgttgtttg tcggtgaacg ctctctacta
+      961 gagtcacact ggctcacctt cgggtgggcc tttctgcgtt tatatactag agacctgtag
+     1021 gatcgtacag gtttacgcaa gaaaatggtt tgttatagtc gaataaaGTT AAC
+//
