@@ -11,4 +11,4 @@ Insert the part, BBa_F2620, into the pET-HIS6-TEV backbone.
     a) Select the backbone by changing cut site selection to encompass plasmid
     b) Set Fragment  
 5. Navigate to the BBa_F2620 part, select insert by using the automatically detected BsaI cut sites --> Set Fragment  
-6. Assemble  
+6. Assemble - Notice Warnings. 
