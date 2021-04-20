@@ -1,0 +1,40 @@
+LOCUS       BBa_E0240                876 bp ds-DNA     linear       20-APR-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    1..876
+                     /label="BBa_E0240"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    1..13
+                     /label="BBa_B0032"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    20..739
+                     /label="BBa_E0040"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    748..827
+                     /label="BBa_B0010"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     misc_feature    836..876
+                     /label="BBa_B0012"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+ORIGIN
+        1 tcacacagga aagtactaga tgcgtaaagg agaagaactt ttcactggag ttgtcccaat
+       61 tcttgttgaa ttagatggtg atgttaatgg gcacaaattt tctgtcagtg gagagggtga
+      121 aggtgatgca acatacggaa aacttaccct taaatttatt tgcactactg gaaaactacc
+      181 tgttccatgg ccaacacttg tcactacttt cggttatggt gttcaatgct ttgcgagata
+      241 cccagatcat atgaaacagc atgacttttt caagagtgcc atgcccgaag gttatgtaca
+      301 ggaaagaact atatttttca aagatgacgg gaactacaag acacgtgctg aagtcaagtt
+      361 tgaaggtgat acccttgtta atagaatcga gttaaaaggt attgatttta aagaagatgg
+      421 aaacattctt ggacacaaat tggaatacaa ctataactca cacaatgtat acatcatggc
+      481 agacaaacaa aagaatggaa tcaaagttaa cttcaaaatt agacacaaca ttgaagatgg
+      541 aagcgttcaa ctagcagacc attatcaaca aaatactcca attggcgatg gccctgtcct
+      601 tttaccagac aaccattacc tgtccacaca atctgccctt tcgaaagatc ccaacgaaaa
+      661 gagagaccac atggtccttc ttgagtttgt aacagctgct gggattacac atggcatgga
+      721 tgaactatac aaataataat actagagcca ggcatcaaat aaaacgaaag gctcagtcga
+      781 aagactgggc ctttcgtttt atctgttgtt tgtcggtgaa cgctctctac tagagtcaca
+      841 ctggctcacc ttcgggtggg cctttctgcg tttata
+//
