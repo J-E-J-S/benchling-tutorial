@@ -7,7 +7,7 @@
 * Determine the sequence fidelity of the construct against the trace.  
 
 ### Steps:  
-1. Import the pMmpylT.gb file  
+1. Import the pMmPylT.gb file  
 2. Click 'Annotations' (right hand vertical toolbar)
     a) Click 'Auto annotate' button to identify plasmid features by searching all libraries  
 3. Create a new feature library by clicking on 'Edit feature libraries' within the Annotations tab  
