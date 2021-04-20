@@ -11,7 +11,7 @@
 2. Click 'Annotations' (right hand vertical toolbar)
     a) Click 'Auto annotate' button to identify plasmid features by searching all libraries  
 3. Create a new feature library by clicking on 'Edit feature libraries' within the Annotations tab  
-    a) Click Import CSV  
+    a) Click 'Import CSV'  
     b) Upload the source_bioscience_primers.csv file  
     c) Auto annotate plasmid with new feature library to identify sequencing sites  
 4. Take a moment to review Benchling's version control system  
@@ -22,7 +22,7 @@
     b) Click 'CREATE PRIMERS' and follow to the Wizard  
     c) Select the whole plasmid from the linear map and use it as the selection region
     d) Check the primer properties are suitable for sequencing specification  
-    e) Use a 500bp Spacing with a 20bp Lead, generated 13 results for full coverage  
+    e) Use a 500bp Spacing with a 20bp Lead, generating 13 results for full coverage  
     f) Click 'Generate Primers'  
 6. Analyse sequencing traces  
     a) Click 'Alignments' (right hand vertical toolbar)  
