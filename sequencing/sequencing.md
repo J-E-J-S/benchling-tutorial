@@ -1,10 +1,10 @@
 ## Sequencing  
 
 ### Objectives
-Use the auto annotate tool to identify plasmid features.  
-Identify Source BioScience stock primer sites by importing the feature library.
-Learn about version control.    
-Determine the sequence fidelity of the construct against the trace.  
+* Use the auto annotate tool to identify plasmid features.  
+* Identify Source BioScience stock primer sites by importing the feature library.  
+* Learn about version control.    
+* Determine the sequence fidelity of the construct against the trace.  
 
 ### Steps:  
 1. Import the pMmpylT.gb file  
