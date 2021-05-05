@@ -7,7 +7,7 @@ Assemble the part BBa_E0240 into the pDusk backbone
 1. Import the BBa_E0240 and pDusk Genbank files (.gb)  
 2. Click 'ASSEMBLY WIZARD' (bottom horizontal toolbar)  
 3. Create a new Gibson Assembly, Title pDusk-BBa_E0240   
-4. Select Backbone between outer and inner sequences of the pFixK2 and lacIq promoter sequences, invert selection  
+4. Select Backbone between outer and inner sequences of the pFixK2 and T7 terminator sequences, invert selection  
 5. Add a 40bp Spacer before and after the insertion site of BBa_E0240 by clicking on the insert and selecting 'Add Spacer After'  
     a) Position Spacer before Insert by using arrows to move left  
     b) Name Spacer, set sequence to random 40bp from http://www.faculty.ucr.edu/~mmaduro/random.htm (or add intragenic features e.g. primers, cut sites etc)  
